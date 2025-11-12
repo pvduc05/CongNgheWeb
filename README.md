@@ -1,2 +1,2 @@
 # CongNgheWeb
-Làm bài tập và thực hành bộ môn Công Nghệ Web
+Làm bài tập và thực hành môn Công Nghệ Web
