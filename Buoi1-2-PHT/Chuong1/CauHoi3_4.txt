@@ -1,0 +1,9 @@
+Thông tin trích xuất:
+	1. Request URL: https://tlu.edu.vn/
+	2. Request Method: GET
+	3. Status Code: 200 OK
+ 
+
+Câu hỏi Phản biện:
+
+	Tại sao khi tải một trang web, trình duyệt lại gửi rất nhiều request (chứ không phải chỉ một request đến trang chủ)? Điều gì xảy ra nếu một trong các file như .css hoặc .js bị lỗi hoặc không tải được?

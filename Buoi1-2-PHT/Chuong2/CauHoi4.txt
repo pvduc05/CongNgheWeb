@@ -1,0 +1,2 @@
+Câu hỏi phản biện:
+	PHP là ngôn ngữ thông dịch, còn Java là ngôn ngữ biên dịch. Vậy sự khác biệt chính giữa 'Lớp và Đối tượng' trong PHP và Java là gì? 	Khi nào thì lập trình hướng đối tượng nên được áp dụng trong một ứng dụng web PHP?•
